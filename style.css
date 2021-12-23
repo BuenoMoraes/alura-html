@@ -151,6 +151,10 @@ td, th {
 }
 
 /* css da página inicial */
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .banner {
     width:100%;
 }
