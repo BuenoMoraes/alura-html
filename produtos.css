@@ -43,6 +43,8 @@ nav a {
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
 }
 
 .produtos h2 {
@@ -57,5 +59,7 @@ nav a {
 .produto-preco {
     font-size: 22px;
     font-weight: bold;
+    margin: 10px 0 0;
+    margin-top: 10px;
 }
 
